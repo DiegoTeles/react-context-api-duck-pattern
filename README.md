@@ -9,13 +9,13 @@ To run the project locally, follow the steps below:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/DiegoTeles/react-context-api-duck-pattern.git
 ```
 
 2. Install the dependencies:
 
 ```bash
-cd your-project
+cd react-context-api-duck-pattern
 npm install
 ```
 
